@@ -7,3 +7,4 @@ Becoming 1% better at data science everyday.
   - [X] Lecture 3: Linear Classifiers
   - [X] Lecture 4: Optimization
   - [X] Lecture 5: Neural Networks
+  - [ ] Lecture 6: Backpropagation
